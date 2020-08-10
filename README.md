@@ -12,19 +12,19 @@ data-analysis-server (Repo URL)
 
 * * *
 
-Step 2:  setup .env
+Step 2:  **setup .env**
 
 Create new .env file in the root folder and copy and paste.env.example inside .env
 
 * * *
 
-Step 3: Open folder in your favourite editor ( download all dependencies )
+Step 3: **Open folder in your favourite editor** ( download all dependencies )
 
 **npm install**
 
 * * *
 
-Step 4: Start app
+Step 4: **Start app**
 
 **npm start**
 
